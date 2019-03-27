@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<a href=''>link</a>
+<a href='#'>home</a>
 </body>
 </html>
